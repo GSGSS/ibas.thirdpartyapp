@@ -32,7 +32,7 @@ public class ConnectManagerMiniProgram extends ConnectManager {
      */
     public static final String PARAM_NAME_CODE = "code";
     /**
-     * 参数名称-授权码
+     * 参数名称-用户昵称
      */
     public static final String PARAM_NICKNAME = "nickname";
     /**
